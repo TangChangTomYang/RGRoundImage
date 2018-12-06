@@ -1,5 +1,5 @@
 # RGRoundImage
 
-![](/image/aa.png)
+![](/images/aa.png)
 
-![](/image/cc.png)
+![](/images/cc.png)
